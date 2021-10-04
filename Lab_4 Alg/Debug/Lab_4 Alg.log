@@ -1,0 +1,6 @@
+﻿  Lab_4 Alg.cpp
+D:\# C++ Projects\Algoritm\Lab_4 Alg\Lab_4 Alg.cpp(9,23): warning C4305: инициализация: усечение из "double" в "float"
+D:\# C++ Projects\Algoritm\Lab_4 Alg\Lab_4 Alg.cpp(10,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\# C++ Projects\Algoritm\Lab_4 Alg\Lab_4 Alg.cpp(10,16): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\# C++ Projects\Algoritm\Lab_4 Alg\Lab_4 Alg.cpp(11,25): warning C4305: инициализация: усечение из "double" в "float"
+  Lab_4 Alg.vcxproj -> D:\# C++ Projects\Algoritm\Lab_4 Alg\Debug\Lab_4 Alg.exe
